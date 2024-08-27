@@ -12,10 +12,10 @@ con la finalidad de borrar todos los valores *`Null`* o *`NaN`* que se pudieran 
 La cantidad de datos antes de realizar la limpieza fueron un total de 10,841 filas. Posterior a la limpieza nos quedamos con un total de 9,360 datos ya limpios y listos para utilizarse.
 
 ### Datos antes y después de la limpieza
-<table cellspacing="0" cellpadding="0">
+<table>
     <tr>
         <th>Datos sin limpiar</th>
-        <th>Datos limpiados</th>
+        <th>Datos limpios</th>
     </tr>
     <tr>
         <td><img src="/assets/B_clean.png"></td>
@@ -24,4 +24,16 @@ La cantidad de datos antes de realizar la limpieza fueron un total de 10,841 fil
 </table>
 
 ## Transformación de los datos
-Para la transformación de los datos, para graficar ciertos datos como lo son los datos de la columna <i>`Reviews`</i>, se normalizaron los datos para que los valores fueran modulos de entre 0.5 y 1 estrella entera.
+Para la transformación de los datos, para graficar ciertos datos como lo son los datos de la columna *`Rating`*, se normalizaron los datos para que los valores fueran modulos de entre 0.5 y 1 estrella entera.
+
+### Datos antes y después de la normalización de la columna *Rating*
+<table>
+    <tr>
+        <th>Datos sin normalizar</th>
+        <th>Datos normalizados</th>
+    </tr>
+    <tr>
+        <td><img src="/assets/Not_Normalized_rating.png"></td>
+        <td><img src="/assets/Normalized_rating.png"></td>
+    </tr>
+</table>
