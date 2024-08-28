@@ -37,3 +37,5 @@ Para la transformación de los datos, para graficar ciertos datos como lo son lo
         <td><img src="/assets/Normalized_rating.png"></td>
     </tr>
 </table>
+
+Trabajo ejecutado y testeado sobre *`Python 3.12.4`*.
