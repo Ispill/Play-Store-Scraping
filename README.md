@@ -1,5 +1,6 @@
 # Playstore Web Scraping
 En este repositorio se mostrará el análisis de datos que se le realizó a un dataset sobre aplicaciones de la Playstore de Google. Principalmente se enfatizará la visualización de dichos datos para poder realizar correlaciones y llegar a conclusiones acerca de cada categoria de dichas aplicaciones.
+
 ![Headers](/assets/Headers.png "Headers del dataset")
 
 ## Limpieza de los datos
