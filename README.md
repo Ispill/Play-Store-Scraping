@@ -1,13 +1,22 @@
-# Playstore Web Scrapin 
-En este repositorio se mostrará el análisis de datos que se le realizó a un dataset sobre aplicaciones de la Playstore de Google. Principalmente se enfatizará la visualización de dichos datos para poder realizar correlaciones y llegar a conclusiones acerca de cada categoria de dichas aplicaciones.
-![Headers](/assets/Headers.png "Headers del dataset")
+<p align="center">
+    <img src="./assets/google_play_logo.png" alt="Playstore Logo" title="Playstore" width=500>
+</p>
+
+<h1 align="center">Google Play Store Web Scraping</h1>
+
+<hr>
+
+Este repositorio presenta el análisis de datos realizado sobre un dataset de aplicaciones de la Google Play Store. El enfoque principal es la visualización de estos datos para permitir la identificación de correlaciones y la derivación de conclusiones sobre las diferentes categorías de aplicaciones.
+
+![Headers](./assets/Headers.png "Headers del dataset")
 
 ## Limpieza de los datos
+
 En la limpieza se llevó a cabo simplemente aplicando la función
 ~~~
 data_frame.dropna()
 ~~~
-con la finalidad de borrar todos los valores *`Null`* o *`NaN`* que se pudieran encontrar dentro de el dataset.
+con la finalidad de borrar todos los valores *`Null`* o *`NaN`* que se pudieran encontrar dentro del dataset.
 
 La cantidad de datos antes de realizar la limpieza fueron un total de 10,841 filas. Posterior a la limpieza nos quedamos con un total de 9,360 datos ya limpios y listos para utilizarse.
 
@@ -18,8 +27,8 @@ La cantidad de datos antes de realizar la limpieza fueron un total de 10,841 fil
         <th>Datos limpios</th>
     </tr>
     <tr>
-        <td><img src="/assets/B_clean.png"></td>
-        <td><img src="/assets/A_clean.png"></td>
+        <td><img src="./assets/B_clean.png"></td>
+        <td><img src="./assets/A_clean.png"></td>
     </tr>
 </table>
 
@@ -33,8 +42,8 @@ Para la transformación de los datos, para graficar ciertos datos como lo son lo
         <th>Datos normalizados</th>
     </tr>
     <tr>
-        <td><img src="/assets/Not_Normalized_rating.png"></td>
-        <td><img src="/assets/Normalized_rating.png"></td>
+        <td><img src="./assets/Not_Normalized_rating.png"></td>
+        <td><img src="./assets/Normalized_rating.png"></td>
     </tr>
 </table>
 
