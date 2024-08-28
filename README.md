@@ -8,6 +8,8 @@
 
 Este repositorio presenta el análisis de datos realizado sobre un dataset de aplicaciones de la Google Play Store. El enfoque principal es la visualización de estos datos para permitir la identificación de correlaciones y la derivación de conclusiones sobre las diferentes categorías de aplicaciones.
 
+> Enlace hacia el dataset en *`Kaggle`*: https://www.kaggle.com/datasets/lava18/google-play-store-apps/data
+
 ![Headers](./assets/Headers.png "Headers del dataset")
 
 ## Limpieza de los datos
