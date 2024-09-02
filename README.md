@@ -49,4 +49,73 @@ Para la transformación de los datos, para graficar ciertos datos como lo son lo
     </tr>
 </table>
 
+## Tablas de autoevaluación
+### Miguel Espíldora Jara
+<table>
+    <tr>
+        <th>Criterios</th>
+        <th>Miguel Espíldora (Autoevaluación)</th>
+        <th>Joan Retamales</th>
+    </tr>
+    <tr>
+        <td>Contribución al trabajo en equipo</td>
+        <td>15/15</td>
+        <td>15/15</td>
+    </tr>
+    <tr>
+        <td>Participación en la toma de desiciones</td>
+        <td>15/15</td>
+        <td>15/15</td>
+    </tr>
+    <tr>
+        <td>Comunicación y colaboración</td>
+        <td>8/10</td>
+        <td>10/10</td>
+    </tr>
+    <tr>
+        <td>Responsabilidad y cumplimiento de tareas</td>
+        <td>20/20</td>
+        <td>20/20</td>
+    </tr>
+    <tr>
+        <td>Puntaje total</td>
+        <td>58/60</td>
+        <td>60/60</td>
+    </tr>
+</table>
+
+### Joan Retamales Moya
+<table>
+    <tr>
+        <th>Criterios</th>
+        <th>Joan Retamales (Autoevaluación)</th>
+        <th>Miguel Espíldora</th>
+    </tr>
+    <tr>
+        <td>Contribución al trabajo en equipo</td>
+        <td>15/15</td>
+        <td>15/15</td>
+    </tr>
+    <tr>
+        <td>Participación en la toma de desiciones</td>
+        <td>15/15</td>
+        <td>15/15</td>
+    </tr>
+    <tr>
+        <td>Comunicación y colaboración</td>
+        <td>10/10</td>
+        <td>10/10</td>
+    </tr>
+    <tr>
+        <td>Responsabilidad y cumplimiento de tareas</td>
+        <td>18/20</td>
+        <td>20/20</td>
+    </tr>
+    <tr>
+        <td>Puntaje total</td>
+        <td>58/60</td>
+        <td>60/60</td>
+    </tr>
+</table>
+
 Trabajo ejecutado y testeado sobre *`Python 3.12.4`*.
